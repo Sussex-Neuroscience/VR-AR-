@@ -1,0 +1,54 @@
+PrintedGoggles:
+    Name: printed goggles 
+    Description: >
+    	This is the printed frame used to hold the phone at the correct distance 
+    	from the lenses and the user's eyes. There are several models available online, 
+    	either as printable models, or as parts that can be bought on eBay/Amazon. 
+    	we used this specific model because it is unibody, so it is easy to print (print it in one go),
+    	and there is no messing around with putting parts together etc.
+    Specs: 
+    	Should follow Google cardboard goggles specs (https://support.google.com/cardboard/manufacturers/answer/6323398?hl=en)
+    Suppliers:
+    	Thingiverse1: 
+    	    Link: https://www.thingiverse.com/thing:873050
+    	Thingiverse2: 
+    	    Link: https://www.thingiverse.com/thing:2337610
+
+Lenses:
+    Name: Lens
+    Description: >
+    	The lens that are used to make the phone image form a large enough image so that users
+    	see everything as one immersive image
+    Specs:
+    	Should follow Google cardboard goggle specs (https://support.google.com/cardboard/manufacturers/answer/6323398?hl=en).
+    	Diameter: 25 mm (specific to the PrintedGoggles part used)
+    Suppliers:
+    	eBay1:
+    	    Link:
+    	    https://www.ebay.co.uk/itm/10pcs-Transparent-Biconvex-Lenses-HD-Acrylic-VR-3D-Glasses-For-Google-Cardboard/254720527417
+ 
+Head Band:
+    Name: headband
+    Description: >
+    	A rubber band to hold the goggles to the user's face.
+    Specs:
+    	broader bands are more comfortable for long using periods 
+    	Length: 20 cm
+    	Width: >=25 mm
+    Suppliers:
+    	eBay1:
+    	    Link:
+    	    https://www.ebay.co.uk/itm/Button-Hole-Buttonhole-Elastic-Woven-Black-White-16mm-19mm-25mm/302920813647
+
+Rubber Band:
+    Name: rubber
+    Description: >
+    	A rubber band to hold the phone on the printed goggles.
+    Specs:
+    	broader bands are better for stability 
+    	Length: 60 cm
+    	Width: 6 mm
+    Suppliers:
+    	eBay1:
+    	    Link:
+    	    https://www.ebay.co.uk/itm/40-x-Thick-2-25-Strong-Rubber-Elastic-Bands-60mm-x-6mm-Heavy-Duty-No-62/391440643007
