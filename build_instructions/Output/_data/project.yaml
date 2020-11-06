@@ -1,0 +1,26 @@
+Affiliation: University of Sussex
+Authors:
+- Andre Maia Chagas
+Email: a.maia-chagas@sussex.ac.uk
+FileList:
+- CC-BY-SA_4.0.txt
+- landing.md
+- landing_BOM.md
+- testpage1.md
+- testpage2.md
+Homepage: landing.md
+License: CC-BY-SA 4.0
+LicenseFile: CC-BY-SA_4.0.txt
+Navigation:
+- Link: testpage1.md
+  Title: Test Page 1
+- Link: testpage2.md
+  Title: Test Page 2
+PageList:
+- Link: landing.md
+  Title: VR-AR-goggles
+- Link: testpage2.md
+  Title: Test Page 2
+- Link: testpage1.md
+  Title: Test Page 1
+Title: VR-AR-goggles

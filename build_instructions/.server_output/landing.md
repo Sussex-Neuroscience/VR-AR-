@@ -13,7 +13,7 @@ Alright, let's get to it!
 
 You should link to a couple of pages:
 
-* [.](printing_the_goggles.md){step: True}
-* [.](testpage2.md){step: True}
+* [Printing the goggles](printing_the_goggles.md "")
+* [Test Page 2](testpage2.md "")
 
-And you should definitely let people know about the {{BOMlink}} page.
+And you should definitely let people know about the [bill of materials](landing_BOM.md) page.
